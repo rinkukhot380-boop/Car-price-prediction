@@ -2,7 +2,7 @@
 
 Predicts the resale price of a used car in India from 7 inputs, and serves the model through a small Streamlit app.
 
-**Live demo:** [add your Streamlit Cloud link after deploying]
+**Live demo:** [https://car-price-prediction-jx9cyy2fwdy4acydedtynh.streamlit.app/]
 
 ## Dataset
 - **Car details v3** (CarDekho listings, Kaggle): 8,128 rows, 13 columns.
